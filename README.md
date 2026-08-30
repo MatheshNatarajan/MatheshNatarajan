@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" style="border-radius: 10px;" alt="Banner Animation" />
 
-# Yo! I'm Mathesh 👋
+# 👨‍💻 Mathesh 
 
-I'm a backend developer who loves building robust, scalable applications and diving into the world of AI integrations. 
+**I build the engines that power the web.**
 
-Currently, I spend my time engineering clean APIs, working with Java and Spring Boot, and creating smart tools that help automate and organize complex workflows. I'm always looking for ways to write better code and build systems that make a real impact.
+Backend developer focused on logic, performance, and automation. I specialize in the heavy lifting of software development—writing the code that runs quietly, flawlessly, and at scale behind the scenes.
