@@ -3,4 +3,4 @@
 
 **I build the engines that power the web.**
 
-Backend developer focused on logic, performance, and automation. I specialize in the heavy lifting of software development—writing the code that runs quietly, flawlessly, and at scale behind the scenes.
+Backend developer focused on logic, performance, and automation. I specialize in the heavy lifting of software development - writing the code that runs quietly, flawlessly, and at scale behind the scenes.
