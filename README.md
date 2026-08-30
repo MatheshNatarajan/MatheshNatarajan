@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanEzaHN4MzdpYnU1OWVmOG9rcDQxaHdwb2p6c3d6OGNuOWZidDd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="1600" height="550" style="object-fit: cover; object-position: center;" alt="Coding Banner" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanEzaHN4MzdpYnU1OWVmOG9rcDQxaHdwb2p6c3d6OGNuOWZidDd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="1600" height="750" style="object-fit: cover; object-position: center;" alt="Coding Banner" />
 
 # Hey! Mathesh here 👨‍💻
 
